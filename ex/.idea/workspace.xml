@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab42851-995e-4f2b-bd0a-4ad010ac742f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ex.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/原油管道.py" beforeDir="false" afterPath="$PROJECT_DIR$/原油管道.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +37,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1R040qBrqcsFx9sCKzQ8OjeJbiP" />
@@ -261,6 +263,7 @@
       <workItem from="1568791616566" duration="458000" />
       <workItem from="1568793048871" duration="16000" />
       <workItem from="1568793101629" duration="3523000" />
+      <workItem from="1568883357102" duration="316000" />
     </task>
     <servers />
   </component>
